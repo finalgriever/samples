@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.example.jamiebutler.notekeeper"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.jamiebutler.notekeeper.ModuleStatusView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="#ccc"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="40dp" />
+
+</FrameLayout>
